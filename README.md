@@ -16,7 +16,5 @@ This security audit is for a Toy company that is currently expanding into intern
 
 -Documentation and reporting.
 
-[Audit scope and goals.docx](https://github.com/user-attachments/files/21576952/Audit.scope.and.goals.docx)
-
 [Security Audit.docx](https://github.com/user-attachments/files/21576899/Security.Audit.docx)
 
